@@ -1,0 +1,50 @@
+<Solution>
+  <PropertyGroup Name="FlappyBird" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistInfo Name="Plist.csi" Type="Plist" />
+        <Image Name="bg_day.png" />
+        <Image Name="bg_night.png" />
+        <Image Name="bird0_0.png" />
+        <Image Name="bird0_1.png" />
+        <Image Name="bird0_2.png" />
+        <Image Name="bird1_0.png" />
+        <Image Name="bird1_1.png" />
+        <Image Name="bird1_2.png" />
+        <Image Name="bird2_0.png" />
+        <Image Name="bird2_1.png" />
+        <Image Name="bird2_2.png" />
+        <Image Name="blink_00.png" />
+        <Image Name="blink_01.png" />
+        <Image Name="blink_02.png" />
+        <Image Name="button_play.png" />
+        <Image Name="land.png" />
+        <Image Name="medals_0.png" />
+        <Image Name="medals_1.png" />
+        <Image Name="medals_2.png" />
+        <Image Name="medals_3.png" />
+        <Image Name="new.png" />
+        <Image Name="number_0.png" />
+        <Image Name="number_1.png" />
+        <Image Name="number_2.png" />
+        <Image Name="number_3.png" />
+        <Image Name="number_4.png" />
+        <Image Name="number_5.png" />
+        <Image Name="number_6.png" />
+        <Image Name="number_7.png" />
+        <Image Name="number_8.png" />
+        <Image Name="number_9.png" />
+        <Image Name="pipe2_down.png" />
+        <Image Name="pipe2_up.png" />
+        <Image Name="score_panel.png" />
+        <Image Name="text_game_over.png" />
+        <Image Name="text_ready.png" />
+        <Image Name="title.png" />
+        <Image Name="tutorial.png" />
+        <Image Name="pipe1_down.png" />
+        <Image Name="pipe1_up.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

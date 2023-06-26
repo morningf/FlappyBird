@@ -1,0 +1,48 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist" Type="Plist" ID="9902c3b9-f902-4550-b160-e946650a36e7" Version="2.3.3.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="bg_day.png" />
+      <FilePathData Path="bg_night.png" />
+      <FilePathData Path="bird0_0.png" />
+      <FilePathData Path="bird0_1.png" />
+      <FilePathData Path="bird0_2.png" />
+      <FilePathData Path="bird1_0.png" />
+      <FilePathData Path="bird1_1.png" />
+      <FilePathData Path="bird1_2.png" />
+      <FilePathData Path="bird2_0.png" />
+      <FilePathData Path="bird2_1.png" />
+      <FilePathData Path="bird2_2.png" />
+      <FilePathData Path="blink_00.png" />
+      <FilePathData Path="blink_01.png" />
+      <FilePathData Path="blink_02.png" />
+      <FilePathData Path="button_play.png" />
+      <FilePathData Path="land.png" />
+      <FilePathData Path="medals_0.png" />
+      <FilePathData Path="medals_1.png" />
+      <FilePathData Path="medals_2.png" />
+      <FilePathData Path="medals_3.png" />
+      <FilePathData Path="new.png" />
+      <FilePathData Path="number_0.png" />
+      <FilePathData Path="number_1.png" />
+      <FilePathData Path="number_2.png" />
+      <FilePathData Path="number_3.png" />
+      <FilePathData Path="number_4.png" />
+      <FilePathData Path="number_5.png" />
+      <FilePathData Path="number_6.png" />
+      <FilePathData Path="number_7.png" />
+      <FilePathData Path="number_8.png" />
+      <FilePathData Path="number_9.png" />
+      <FilePathData Path="score_panel.png" />
+      <FilePathData Path="text_game_over.png" />
+      <FilePathData Path="text_ready.png" />
+      <FilePathData Path="title.png" />
+      <FilePathData Path="tutorial.png" />
+      <FilePathData Path="pipe1_down.png" />
+      <FilePathData Path="pipe1_up.png" />
+      <FilePathData Path="pipe2_down.png" />
+      <FilePathData Path="pipe2_up.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
